@@ -8,3 +8,5 @@ var anObject = {
 var arr = [1,2,3,4,5];
 
 console.log('test a commit');
+
+//add a comment to test a commit
