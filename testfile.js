@@ -12,3 +12,5 @@ console.log('test a commit');
 //add a comment to test a commit
 
 //add another comment here again ...
+
+console.log('one for the team');
